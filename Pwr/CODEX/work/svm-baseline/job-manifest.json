@@ -1,0 +1,31 @@
+﻿{
+    "source":  "G:\\My Drive\\BosSys\\996_LTSpice\\Pwr\\New folder\\SVM.asc",
+    "job_dir":  "G:\\My Drive\\BosSys\\996_LTSpice\\Pwr\\CODEX\\work\\svm-baseline",
+    "symbols_detected":  [
+                             "3ph_br_vm",
+                             "bv",
+                             "cap",
+                             "e",
+                             "ind",
+                             "Math2",
+                             "SINPWM",
+                             "Transforms",
+                             "wt"
+                         ],
+    "model_files":  [
+                        "pwr.sub",
+                        "transforms.sub"
+                    ],
+    "include_files":  [
+
+                      ],
+    "copied_files":  [
+                         "G:\\My Drive\\BosSys\\996_LTSpice\\Pwr\\CODEX\\work\\svm-baseline\\3ph_br_vm.asy",
+                         "G:\\My Drive\\BosSys\\996_LTSpice\\Pwr\\CODEX\\work\\svm-baseline\\pwr.sub",
+                         "G:\\My Drive\\BosSys\\996_LTSpice\\Pwr\\CODEX\\work\\svm-baseline\\SINPWM.asy",
+                         "G:\\My Drive\\BosSys\\996_LTSpice\\Pwr\\CODEX\\work\\svm-baseline\\SVM.asc",
+                         "G:\\My Drive\\BosSys\\996_LTSpice\\Pwr\\CODEX\\work\\svm-baseline\\Transforms.asy",
+                         "G:\\My Drive\\BosSys\\996_LTSpice\\Pwr\\CODEX\\work\\svm-baseline\\transforms.sub",
+                         "G:\\My Drive\\BosSys\\996_LTSpice\\Pwr\\CODEX\\work\\svm-baseline\\wt.asy"
+                     ]
+}
